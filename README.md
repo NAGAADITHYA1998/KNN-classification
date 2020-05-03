@@ -6,4 +6,4 @@ you can get the data set from https://archive.ics.uci.edu/ml/datasets/Human+Acti
 once you get the datafolder.Move the reqired files into the same directory of the code.
 
 NOTE:
-here distance measure is taken as sum of squares of difference in features.
+here distance measure is taken as sum of squares of difference in features(sqrt is ommited).
